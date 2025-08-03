@@ -5,7 +5,7 @@ import 'package:openai_dart/openai_dart.dart';
 import 'package:yuki/controller.dart';
 
 final client = OpenAIClient(
-  apiKey:'aa-Ag0FkYecrGW214FK0YV8XFMwyVnadVUT1wZt3R1Q360lAOwa',
+  apiKey:'aa-Ag0FkYecrGW21yVnadVUT1wZt3R1Q360lAOwa',
   baseUrl: 'https://api.avalai.org/v1',
 );
 
