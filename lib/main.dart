@@ -571,7 +571,7 @@ final List<ChatCompletionTool> allTools = [
   readTextContentTool,
 ];
 final client = OpenAIClient(
-  apiKey:'aa-Ag0FkYecrGW214FK0YV8XFMwyVnadVUT1wZt3R1Q360lAOwa',
+  apiKey:'aa-Ag0FkYecrGW1wZt3R1Q360lAOwa',
   baseUrl: 'https://api.avalai.org/v1',
 );
 
